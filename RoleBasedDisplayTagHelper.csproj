@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.0.0</Version>
+    <Authors>Samuel Adebayo-Adesina</Authors>
+    <PackageId>RoleBasedDisplayTagHelper</PackageId>
+    <Description>A role-based TagHelper for conditional rendering in ASP.NET Core views.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/samuel-owoaanu/RoleBasedDisplayTagHelper</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/samuel-owoaanu/RoleBasedDisplayTagHelper</RepositoryUrl>
+    <PackageTags>aspnetcore taghelper authorization roles</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Runtime" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>

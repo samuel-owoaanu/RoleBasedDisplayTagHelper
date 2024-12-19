@@ -1,0 +1,12 @@
+/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/bin/Release/net6.0/RoleBasedDisplayTagHelper.deps.json
+/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/bin/Release/net6.0/RoleBasedDisplayTagHelper.dll
+/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/bin/Release/net6.0/ref/RoleBasedDisplayTagHelper.dll
+/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/bin/Release/net6.0/RoleBasedDisplayTagHelper.pdb
+/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/obj/Release/net6.0/RoleBasedDisplayTagHelper.csproj.AssemblyReference.cache
+/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/obj/Release/net6.0/RoleBasedDisplayTagHelper.GeneratedMSBuildEditorConfig.editorconfig
+/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/obj/Release/net6.0/RoleBasedDisplayTagHelper.AssemblyInfoInputs.cache
+/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/obj/Release/net6.0/RoleBasedDisplayTagHelper.AssemblyInfo.cs
+/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/obj/Release/net6.0/RoleBasedDisplayTagHelper.csproj.CoreCompileInputs.cache
+/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/obj/Release/net6.0/RoleBasedDisplayTagHelper.dll
+/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/obj/Release/net6.0/ref/RoleBasedDisplayTagHelper.dll
+/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/obj/Release/net6.0/RoleBasedDisplayTagHelper.pdb
