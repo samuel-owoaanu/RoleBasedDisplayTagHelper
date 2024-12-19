@@ -5,7 +5,7 @@
   },
   "projects": {
     "/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/RoleBasedDisplayTagHelper.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "/home/edsu-dev/Documents/dev/dotnetpkgs/RoleBasedDisplayTagHelper/RoleBasedDisplayTagHelper.csproj",
         "projectName": "RoleBasedDisplayTagHelper",
@@ -40,7 +40,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authorization": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[6.0.36, )"
             },
             "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
