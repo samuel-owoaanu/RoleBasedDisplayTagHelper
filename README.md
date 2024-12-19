@@ -1,4 +1,4 @@
-# MyRoleBasedTagHelper
+# RoleBasedDisplayTagHelper
 
 MyRoleBasedTagHelper is a custom ASP.NET Core TagHelper for role and policy-based content rendering in Razor views. It helps you conditionally show or hide UI elements based on the authenticated user’s roles and authorization policies.
 
